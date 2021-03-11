@@ -18,6 +18,8 @@
             </div>
             <asp:Label ID="lblLoginMessage" runat="server" Text=""></asp:Label>
 
+
+            <asp:Image ID="tonyStark" runat="server" ImageUrl="/images/tonyStark.jpg" />
         </div>
     </div>
 </asp:Content>
